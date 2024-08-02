@@ -27,7 +27,7 @@ To get started with the Drought Analysis project, follow these steps:
 1. **Clone the Repository:**
 
    ```bash
-   git clone ....
+   git clone https://github.com/Rajsubhod/drought_analysis.git
    cd drought_analysis
    ```
 
